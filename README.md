@@ -3,5 +3,5 @@
 </div>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=schr1k&hide_border=true&bg_color=020202&text_color=9745F5&title_color=9745F5&layout=compact" alt="" width=40.25%>
-  <img src="https://github-readme-stats.vercel.app/api?username=schr1k&show_icons=true&hide_border=true&bg_color=020202&text_color=9745F5&title_color=9745F5&icon_color=9745F5&hide_rank=true&hide=prs,contribs" alt="" width=39.4%/>
+  <img src="https://github-readme-stats.vercel.app/api?username=schr1k&show_icons=true&hide_border=true&bg_color=020202&text_color=9745F5&title_color=9745F5&icon_color=9745F5&hide_rank=true&hide=contribs,issues" alt="" width=39.4%/>
 </div>
