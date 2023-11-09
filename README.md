@@ -7,6 +7,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=schr1k&show_icons=true&hide_border=true&bg_color=020202&text_color=9745F5&title_color=9745F5&icon_color=9745F5&hide_rank=true&hide=contribs,issues" alt="stats" width=39.4%/>
 </div>
 <div align="center">
+  <h1>Skills:</h1>
   <img src="https://skillicons.dev/icons?i=py,postgres,html,css,js,ts,react,next,git,linux" alt="skills" width=80%>
 </div>
 
