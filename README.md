@@ -10,4 +10,5 @@
   <h1>Skills:</h1>
   <img src="https://skillicons.dev/icons?i=py,postgres,html,css,js,ts,react,next,git,linux" alt="skills" width=80%>
 </div>
-
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
