@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&duration=3000&color=9745F5&center=true&multiline=true&repeat=false&random=false&width=1000&height=150&lines=Hi!+I'm+Vanya;Python+Fullstack+Developer" alt="Typing SVG" /></a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&duration=3000&color=9745F5&center=true&multiline=true&repeat=false&random=false&width=1000&height=150&lines=Hi!+I'm+Vanya;Python+Fullstack+Developer" alt="Typing SVG" />
 <div align="center">
   <img src="http://github-readme-streak-stats.herokuapp.com?user=schr1k&theme=midnight-purple&hide_border=true&border_radius=0&date_format=j%20M%5B%20Y%5D&card_width=500&dates=9745F5&background=020202&border=9745F5&stroke=9745F5&ring=9745F5&fire=9745F5&currStreakNum=9745F5&sideNums=9745F5&currStreakLabel=9745F5&sideLabels=9745F5&excludeDaysLabel=9745F5" alt="stats" width=80%/>
 </div>
