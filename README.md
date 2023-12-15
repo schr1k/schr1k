@@ -4,7 +4,7 @@
     alt="stats" width=60% style="border-radius: 100px"/>
 </div>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=schr1k&show_icons=true&hide_border=true&bg_color=020202&text_color=9745F5&title_color=9745F5&icon_color=9745F5&hide_rank=true&hide=contribs,issues&border_radius=10"
+  <img src="https://github-readme-stats.vercel.app/api?username=schr1k&theme=midnight-purple&show_icons=true&hide_border=true&bg_color=020202&text_color=9745F5&title_color=9745F5&icon_color=9745F5&hide_rank=true&hide=contribs,issues&border_radius=10"
     alt="stats" width=60%/>
 </div>
 <br/>
