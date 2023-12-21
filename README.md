@@ -1,8 +1,8 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=3000&color=9745F5&center=true&multiline=true&repeat=false&random=false&width=1000&height=120&lines=Hi!+I'm+Vanya;Python+Fullstack+Developer" alt="Hi! I'm Vanya. Python Fullstack Developer" />
 <div align="center">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=schr1k&border_radius=0&date_format=j%20M%5B%20Y%5D&card_width=500&dates=ffffff&background=ffffff00&border=9745F5&stroke=9745F5&ring=9745F5&fire=9745F5&currStreakNum=9745F5&sideNums=9745F5&currStreakLabel=9745F5&sideLabels=9745F5&excludeDaysLabel=ffffff&border_radius=30"
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=schr1k&border_radius=0&date_format=j%20M%5B%20Y%5D&card_width=500&dates=9745F5&background=ffffff00&border=9745F5&stroke=9745F5&ring=9745F5&fire=9745F5&currStreakNum=9745F5&sideNums=9745F5&currStreakLabel=9745F5&sideLabels=9745F5&excludeDaysLabel=9745F5&border_radius=30"
     alt="stats" width=50%/>
-  <img src="https://github-readme-stats.vercel.app/api?username=schr1k&show_icons=true&bg_color=ffffff00&text_color=ffffff&title_color=9745F5&icon_color=9745F5&hide_rank=true&hide=contribs,issues&border_radius=20&border_color=9745F5"
+  <img src="https://github-readme-stats.vercel.app/api?username=schr1k&show_icons=true&bg_color=ffffff00&text_color=9745F5&title_color=9745F5&icon_color=9745F5&hide_rank=true&hide=contribs,issues&border_radius=20&border_color=9745F5"
     alt="stats" width=41%/>
 </div>
 <br/>
