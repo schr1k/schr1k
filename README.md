@@ -1,4 +1,4 @@
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=3000&color=ffffff&center=true&multiline=true&repeat=false&random=false&width=1000&height=120&lines=Hi!+I'm+Vanya;Python+Fullstack+Developer" alt="Hi! I'm Vanya. Python Fullstack Developer" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=3000&color=9745F5&center=true&multiline=true&repeat=false&random=false&width=1000&height=120&lines=Hi!+I'm+Vanya;Python+Fullstack+Developer" alt="Hi! I'm Vanya. Python Fullstack Developer" />
 <div align="center">
   <img src="http://github-readme-streak-stats.herokuapp.com?user=schr1k&border_radius=0&date_format=j%20M%5B%20Y%5D&card_width=500&dates=ffffff&background=ffffff00&border=9745F5&stroke=9745F5&ring=9745F5&fire=9745F5&currStreakNum=9745F5&sideNums=9745F5&currStreakLabel=9745F5&sideLabels=9745F5&excludeDaysLabel=ffffff&border_radius=30"
     alt="stats" width=50%/>
