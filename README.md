@@ -29,14 +29,6 @@
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bash-Dark.svg" title="Bash" alt="Bash" width="10%" height="auto"/>
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/GithubActions-Dark.svg" title="Github Actions" alt="Github Actions" width="10%" height="auto"/>
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Dark.svg" title="Figma" alt="Figma" width="10%" height="auto"/>
-    <br/>
-    <h1>IDEs:</h1>
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PyCharm-Dark.svg" title="PyCharm" alt="PyCharm" width="10%" height="auto"/>
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/WebStorm-Dark.svg" title="WebStorm" alt="WebStorm" width="10%" height="auto"/>
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" title="VSCode" alt="VSCode" width="10%" height="auto"/>
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NeoVim-Dark.svg" title="NeoVim" alt="NeoVim" width="10%" height="auto"/>
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VIM-Dark.svg" title="Vim" alt="Vim" width="10%" height="auto"/>
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Obsidian-Dark.svg" title="Obsidian" alt="Obsidian" width="10%" height="auto"/>
 </div>
 <br/>
 <br/>
