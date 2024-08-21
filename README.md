@@ -32,7 +32,7 @@
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bash-Dark.svg" title="Bash" alt="Bash" width="10%" height="auto"/>
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/GithubActions-Dark.svg" title="Github Actions" alt="Github Actions" width="10%" height="auto"/>
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Cloudflare-Dark.svg" title="Cloudflare" alt="Cloudflare" width="10%" height="auto"/>
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" title="NodeJS" alt="NodeJS" width="10%" height="auto"/>
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Dark.svg" title="Figma" alt="Figma" width="10%" height="auto"/>
 </div>
 <br/>
 <br/>
