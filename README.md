@@ -7,7 +7,6 @@
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" title="Html" alt="Html" width="5%" height="auto"/>
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" title="Css" alt="Css" width="5%" height="auto"/>
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Markdown-Dark.svg" title="Markdown" alt="Markdown" width="5%" height="auto"/>
-    <br/>
     <h1>Frameworks:</h1>
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/FastAPI.svg" title="FastAPI" alt="FastAPI" width="5%" height="auto"/>
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" title="React" alt="React" width="5%" height="auto"/>
@@ -16,7 +15,6 @@
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NestJS-Dark.svg" title="NestJS" alt="NestJS" width="5%" height="auto"/>
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/ExpressJS-Dark.svg" title="ExpressJS" alt="ExpressJS" width="5%" height="auto"/>
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Redux.svg" title="Redux" alt="Redux" width="5%" height="auto"/>
-    <br/>
     <h1>Tools:</h1>
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" title="Git" alt="Git" width="5%" height="auto"/>
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg" title="Docker" alt="Docker" width="5%" height="auto"/>
