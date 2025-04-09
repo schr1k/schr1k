@@ -1,36 +1,72 @@
 <div align="center">
-    <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="20" height="auto" /> Languages:</h2>
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" title="Python" alt="Python" width="10%" height="auto"/>
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/GoLang.svg" title="GoLang" alt="GoLang" width="10%" height="auto"/>
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" title="JavaScript" alt="JavaScript" width="10%" height="auto"/>
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg" title="TypeScript" alt="TypeScript" width="10%" height="auto"/>
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" title="Html" alt="Html" width="10%" height="auto"/>
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" title="Css" alt="Css" width="10%" height="auto"/>
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Sass.svg" title="Sass" alt="Sass" width="10%" height="auto"/>
-    <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Atom%20Symbol.png" alt="Atom" width="20" height="auto" /> Frameworks:</h2>
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/FastAPI.svg" title="FastAPI" alt="FastAPI" width="10%" height="auto"/>
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" title="React" alt="React" width="10%" height="auto"/>
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NextJS-Dark.svg" title="NextJS" alt="NextJS" width="10%" height="auto"/>
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Django.svg" title="Django" alt="Django" width="10%" height="auto"/>
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NestJS-Dark.svg" title="NestJS" alt="NestJS" width="10%" height="auto"/>
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/ExpressJS-Dark.svg" title="ExpressJS" alt="ExpressJS" width="10%" height="auto"/>
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Redux.svg" title="Redux" alt="Redux" width="10%" height="auto"/>
-    <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="20" height="auto" /> Tools:</h2>
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" title="Git" alt="Git" width="10%" height="auto"/>
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg" title="Docker" alt="Docker" width="10%" height="auto"/>
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Kubernetes.svg" title="Kubernetes" alt="Kubernetes" width="10%" height="auto"/>
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Nginx.svg" title="Nginx" alt="Nginx" width="10%" height="auto"/>
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Prisma.svg" title="Prisma" alt="Prisma" width="10%" height="auto"/>
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg" title="Postman" alt="Postman" width="10%" height="auto"/>
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Prometheus.svg" title="Prometheus" alt="Prometheus" width="10%" height="auto"/>
-    <br/>
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Dark.svg" title="Postgresql" alt="Postgresql" width="10%" height="auto"/>
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Redis-Dark.svg" title="Redis" alt="Redis" width="10%" height="auto"/>
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Dark.svg" title="Linux" alt="Linux" width="10%" height="auto"/>
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bash-Dark.svg" title="Bash" alt="Bash" width="10%" height="auto"/>
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/GithubActions-Dark.svg" title="Github Actions" alt="Github Actions" width="10%" height="auto"/>
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Cloudflare-Dark.svg" title="Cloudflare" alt="Cloudflare" width="10%" height="auto"/>
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Grafana-Dark.svg" title="Grafana" alt="Grafana" width="10%" height="auto"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+Mono&size=40&duration=3000&color=F7F7F7&center=true&vCenter=true&multiline=true&repeat=false&width=700&height=150&lines=Hi+%F0%9F%91%8B+I'm+Ivan;Python+Fullstack+Developer" alt="Typing SVG" />
 </div>
-<br/>
-<br/>
+
+<p align="left">
+I'm a Python fullstack developer and I really love DevOps.<br/>
+I build scalable systems, automate workflows, and thrive on clean, efficient developer experiences.<br/>
+My go-to stack includes Python, FastAPI, PostgreSQL, Typescript, React, Next.js and Docker.
+</p>
+
+---
+
+### 🌐 Find me online
+
+<p align="left">
+  <a href="https://t.me/schr1k_work" target="_blank">
+      <img src="https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=telegram" />
+  </a>
+  <a href="https://shr1k.tw1.ru" target="_blank">
+      <img src="https://img.shields.io/badge/Website-black?style=for-the-badge&logo=googlechrome" />
+  </a>
+</p>
+
+---
+
+### 🚀 Frontend
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5" />
+  <img src="https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=css3" />
+  <img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript" />
+  <img src="https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=typescript" />
+  <img src="https://img.shields.io/badge/React-black?style=for-the-badge&logo=react" />
+  <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Chakra UI-black?style=for-the-badge&logo=chakraui" />
+  <img src="https://img.shields.io/badge/Redux-black?style=for-the-badge&logo=redux" />
+</p>
+
+### 🧠 Backend
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python" />
+  <img src="https://img.shields.io/badge/FastAPI-black?style=for-the-badge&logo=fastapi" />
+  <img src="https://img.shields.io/badge/Pydantic-black?style=for-the-badge&logo=pydantic" />
+  <img src="https://img.shields.io/badge/PostgreSQL-black?style=for-the-badge&logo=postgresql" />
+  <img src="https://img.shields.io/badge/Redis-black?style=for-the-badge&logo=redis" />
+  <img src="https://img.shields.io/badge/ClickHouse-black?style=for-the-badge&logo=clickhouse" />
+  <img src="https://img.shields.io/badge/Celery-black?style=for-the-badge&logo=celery" />
+  <img src="https://img.shields.io/badge/RabbitMQ-black?style=for-the-badge&logo=rabbitmq" />
+</p>
+
+### ⚙️ DevOps
+<p align="left">
+  <img src="https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=docker" />
+  <img src="https://img.shields.io/badge/Kubernetes-black?style=for-the-badge&logo=kubernetes" />
+  <img src="https://img.shields.io/badge/Nginx-black?style=for-the-badge&logo=nginx" />
+  <img src="https://img.shields.io/badge/Ansible-black?style=for-the-badge&logo=ansible" />
+  <img src="https://img.shields.io/badge/pre--commit-black?style=for-the-badge&logo=pre-commit" />
+  <img src="https://img.shields.io/badge/GitHub Actions-black?style=for-the-badge&logo=githubactions" />
+  <img src="https://img.shields.io/badge/PM2-black?style=for-the-badge&logo=pm2" />
+  <img src="https://img.shields.io/badge/Cloudflare-black?style=for-the-badge&logo=cloudflare" />
+</p>
+
+### 🔧 Other Tools
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git" />
+  <img src="https://img.shields.io/badge/Aiogram-black?style=for-the-badge&logo=telegram" />
+  <img src="https://img.shields.io/badge/Grafana-black?style=for-the-badge&logo=grafana" />
+  <img src="https://img.shields.io/badge/Prometheus-black?style=for-the-badge&logo=prometheus" />
+  <img src="https://img.shields.io/badge/uv-black?style=for-the-badge&logo=uv" />
+  <img src="https://img.shields.io/badge/ruff-black?style=for-the-badge&logo=ruff" />
+  <img src="https://img.shields.io/badge/ESLint-black?style=for-the-badge&logo=eslint" />
+  <img src="https://img.shields.io/badge/Prettier-black?style=for-the-badge&logo=prettier" />
+</p>
