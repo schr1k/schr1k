@@ -21,8 +21,6 @@ My go-to stack includes Python, FastAPI, PostgreSQL, Typescript, React, Next.js 
   </a>
 </p>
 
----
-
 ### 🚀 Frontend
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5" />
