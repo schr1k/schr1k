@@ -23,8 +23,8 @@ My go-to stack includes Python, FastAPI, PostgreSQL, Typescript, React, Next.js 
 
 ### 🚀 Frontend
 <p align="left">
-  <img src="https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5" />
-  <img src="https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=css3" />
+  <img src="https://img.shields.io/badge/HTML-black?style=for-the-badge&logo=html5" />
+  <img src="https://img.shields.io/badge/CSS-black?style=for-the-badge&logo=css3" />
   <img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript" />
   <img src="https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=typescript" />
   <img src="https://img.shields.io/badge/React-black?style=for-the-badge&logo=react" />
@@ -52,7 +52,7 @@ My go-to stack includes Python, FastAPI, PostgreSQL, Typescript, React, Next.js 
   <img src="https://img.shields.io/badge/Nginx-black?style=for-the-badge&logo=nginx" />
   <img src="https://img.shields.io/badge/Ansible-black?style=for-the-badge&logo=ansible" />
   <img src="https://img.shields.io/badge/pre--commit-black?style=for-the-badge&logo=pre-commit" />
-  <img src="https://img.shields.io/badge/GitHub Actions-black?style=for-the-badge&logo=githubactions" />
+  <img src="https://img.shields.io/badge/GH Actions-black?style=for-the-badge&logo=githubactions" />
   <img src="https://img.shields.io/badge/PM2-black?style=for-the-badge&logo=pm2" />
   <img src="https://img.shields.io/badge/Cloudflare-black?style=for-the-badge&logo=cloudflare" />
 </p>
